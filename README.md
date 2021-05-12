@@ -1,11 +1,11 @@
 # skycoin
 
-Total timetaken
-
-1 week roughly. this includes 
+Total timetaken:
+6 days (6may - 12may) coding time 2 days. 
+-this includes 
 -learning about Go syntax and features,
 -initial design of chat applications 
--learning goroutin
+-learning goroutin and channels in details
 
 Client process:
 -on coming up, finds server , if not online tries reconeceting every 2 seconds 
